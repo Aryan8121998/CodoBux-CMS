@@ -11,18 +11,7 @@
 - *Prompt:* "Use Context API for state management, including undo/redo history and localStorage persistence."
 - *Outcome:* Generated `CMSContext`, block type definitions, editor/preview components, and initial Tailwind theme.
 
-## UI Layout Recommendation
-- **Left Panel → Editor / Block Settings**
-- **Right Panel → Live Preview**
-- Focus on clean hierarchy, maintainable components, responsive breakpoints, and minimal visual complexity.
 
-## Required Block Types
-| Block | Editable Fields |
-|------|-----------------|
-| **Hero** | Title, Subtitle, Button Text, Button Link, Background Gradient |
-| **Features** | Section Title, Feature Cards (Title & Description) |
-| **Testimonials** | Quote, Author Name |
-| **CTA** | Heading, Button Text, Button Link, Background Gradient |
 
 ## State Management (Context API)
 - Centralized state in `context/CMSContext.tsx`.
