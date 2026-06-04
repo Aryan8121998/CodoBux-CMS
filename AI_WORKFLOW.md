@@ -2,7 +2,7 @@
 
 ## AI Tools Used
 - **Antigravity IDE** – primary coding assistant for implementation, UI tweaks, and refactoring.
-- **Gemini 3.5** – used for generating component code, Tailwind styling, and documentation drafts.
+- **Gemini 3.5 Flash** – used for generating component code, Tailwind styling, and documentation drafts.
 - **Claude** (briefly) – consulted to understand project scope and suggest architectural approaches.
 
 ## Important AI Chats / Prompts
